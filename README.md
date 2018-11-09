@@ -1,5 +1,5 @@
 # ParaTi-App-mobile
-
+*This is a temporary repository till my portafolio is done*
 
 National University of La Plata, Multimedia Design
 
